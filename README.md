@@ -4,6 +4,7 @@ An ESP32 based eurorack module for libmapper connectivity.
 
 ## Why mappings in Eurorack?
 
+Eurorack systems are excellent at making "generative music", where the system plays itself using sequencers, LFOs, clocks, and other modules. That said, there is lacking a method for "performative interaction" with Eurorack (asides from simply adjusting knobs directly on the system).
 
 ## System Overview
 
