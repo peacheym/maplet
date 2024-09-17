@@ -41,4 +41,4 @@ While these initial examples show the basics of how to use the Maplet module as 
 - libmapper website | [link](https://libmapper.org)
 - libmapper repo | [link](https://github.com/libmapper/libmapper)
 - libmapper tutorials | [link](http://libmapper.github.io/tutorials/introduction.html)
-- libmapper expression engine syntax guide | [https://github.com/libmapper/libmapper/blob/main/doc/expression_syntax.md]
+- libmapper expression engine syntax guide | [link](https://github.com/libmapper/libmapper/blob/main/doc/expression_syntax.md)
